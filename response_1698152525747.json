@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nome": "Joao",
+    "telefone": "1199657848",
+    "cpf": "64353562626",
+    "rg": "435267352",
+    "endereco": "Rua Argemiro Vieira"
+  },
+  {
+    "id": 2,
+    "nome": "Fael",
+    "telefone": "153453473",
+    "cpf": "768589594",
+    "rg": "879695887",
+    "endereco": "Rua Besta"
+  }
+]
